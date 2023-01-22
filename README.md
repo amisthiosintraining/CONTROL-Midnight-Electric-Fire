@@ -1,6 +1,8 @@
 # CONTROL | Midnight Electric Asychronous Suit
 An old re-texture of the asynchronous suit. 
 
+<img src="https://imgur.com/5xXSBSY.png" alt="Midnight electric asynchronous suit banner">
+
 ------
 
 **INSTRUCTIONS**
