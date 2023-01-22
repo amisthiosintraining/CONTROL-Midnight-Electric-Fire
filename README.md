@@ -31,14 +31,14 @@ Delete the following:
 <br>`data_pc\textures\characters\andro\jesse\tops\jesse_master_top_d.tex`
 
 **EYES**
-<br>'data_pc\textures\characters\andro\heads\courtney_hope\courtney_hope_eye_d.tex'
+<br>`data_pc\textures\characters\andro\heads\courtney_hope\courtney_hope_eye_d.tex`
 
 **SERVICE WEAPON**
-<br>'data_pc\textures\weapons\serviceweapon\charge\charge_d.tex`
-<br>'data_pc\textures\weapons\serviceweapon\grip\grip_d.tex`
-<br>'data_pc\textures\weapons\serviceweapon\pierce\pierce_d.tex`
-<br>'data_pc\textures\weapons\serviceweapon\shatter\shatter_d.tex`
-<br>'data_pc\textures\weapons\serviceweapon\spin\spin_d.tex`
+<br>`data_pc\textures\weapons\serviceweapon\charge\charge_d.tex`
+<br>`data_pc\textures\weapons\serviceweapon\grip\grip_d.tex`
+<br>`data_pc\textures\weapons\serviceweapon\pierce\pierce_d.tex`
+<br>`data_pc\textures\weapons\serviceweapon\shatter\shatter_d.tex`
+<br>`data_pc\textures\weapons\serviceweapon\spin\spin_d.tex`
 
 - Please note that these retextures will conflict with other retextures listed above, so please make sure that you have removed any `[retexture]_n.tex`, `[retexture]_s.tex` and/or `[retexture]_sa.tex` that belong to other retextures.
 - It's not necessary to exit the game completely to switch between retextures. Quit to main menu, drag and drop new retexture and continue.
