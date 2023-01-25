@@ -1,4 +1,4 @@
-# CONTROL | Midnight Electric Asychronous Suit
+# CONTROL | Midnight Electric | Midnight Fire
 An old re-texture of the asynchronous suit. 
 
 <img src="https://imgur.com/oisSOQF.png" alt="Midnight Electric / Midnight Fire sample">
