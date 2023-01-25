@@ -1,7 +1,7 @@
 # CONTROL | Midnight Electric Asychronous Suit
 An old re-texture of the asynchronous suit. 
 
-<img src="https://imgur.com/oisSOQF.png" alt="Midnight Electric / Midnight Fire sample" style="height:250px;"> <img src="https://imgur.com/LveFQW0.png" alt="Midnight Electric" style="height:250px;"> <img src="https://imgur.com/kifhLji.png" alt="Midnight Fire" style="height:250px;">
+<img src="https://imgur.com/oisSOQF.png" alt="Midnight Electric / Midnight Fire sample">
 
 ------
 
